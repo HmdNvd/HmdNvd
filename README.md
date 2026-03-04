@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Hammad Naveed 👋
 
-<!--
-**HmdNvd/HmdNvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Computer Science student with a strong foundation in AI/ML and full-stack web development. I am passionate about building data-driven applications and scalable solutions, from high-accuracy deepfake detection models to robust backend architectures.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Doing
+* 🎓 Completing my BS in Computer Science (Target Graduation: July 2026).
+* 🧠 Developing **Deep Trace**, an end-to-end deepfake detection and generation system using TensorFlow, CNNs, and RNNs.
+* 💻 Building scalable web applications and REST APIs using Node.js and MongoDB.
+* 📊 Training machine learning models for predictive analysis, achieving up to 95%+ accuracy and 0.99 R² in recent projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+* **Languages:** Python, JavaScript, C++, C, Assembly
+* **Machine Learning:** TensorFlow, scikit-learn, CNN/RNN, Pandas, NumPy
+* **Web Development:** Node.js, Express.js, HTML, CSS
+* **Databases:** MongoDB, MySQL
+* **Tools & Environments:** Git, Insomnia, Google Colab
+
+## 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/hammad-naveed-90aa50297](https://www.linkedin.com/in/hammad-naveed-90aa50297)
+* **Email:** naveedhammad21@gmail.com
