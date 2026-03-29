@@ -1,6 +1,6 @@
 # Hi there, I'm Hammad Naveed 👋
 
-I am a final-year Computer Science student with a strong foundation in AI/ML and full-stack web development. I am passionate about building data-driven applications and scalable solutions, from high-accuracy deepfake detection models to robust backend architectures.
+I am a final-year Computer Science student with a strong foundation in AI/ML and full-stack web development. I am passionate about building data-driven applications and scalable solutions, from high-accuracy models to robust backend architectures.
 
 ## 🚀 What I'm Doing
 * 🎓 Completing my BS in Computer Science (Target Graduation: July 2026).
