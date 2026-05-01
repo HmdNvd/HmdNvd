@@ -16,5 +16,5 @@ I am a final-year Computer Science student with a strong foundation in AI/ML and
 * **Tools & Environments:** Git, Insomnia, Google Colab
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/hammad-naveed-90aa50297](https://www.linkedin.com/in/hammad-naveed-90aa50297)
+* **LinkedIn:** [linkedin.com/in/hammad-naveed-90aa50297](https://www.linkedin.com/in/hmdnvd)
 * **Email:** naveedhammad21@gmail.com
